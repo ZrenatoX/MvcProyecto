@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectowed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|solutionrelative:mvcproyectowed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF0E286-EA78-4490-B5A6-F5A24B3A6022}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectoweb.accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF0E286-EA78-4490-B5A6-F5A24B3A6022}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectowed\\mvcproyectowed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|solutionrelative:mvcproyectowed\\mvcproyectowed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectowed\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|solutionrelative:mvcproyectowed\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectowed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|solutionrelative:mvcproyectowed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectowed\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|solutionrelative:mvcproyectowed\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectowed\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EA6B4F73-6B2E-44E5-B1B9-E935ACFCE561}|mvcProyectoWed\\mvcProyectoWed.csproj|solutionrelative:mvcproyectowed\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1C5E69-93F1-4FA8-B3CD-2E856B95D9DE}|mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectoweb.utilidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1C5E69-93F1-4FA8-B3CD-2E856B95D9DE}|mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj|solutionrelative:mvcproyectoweb.utilidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8961AE-72DF-4586-BA0C-92CBABF20E94}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|c:\\users\\renato\\source\\repos\\mvcproyectowed\\mvcproyectoweb.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8961AE-72DF-4586-BA0C-92CBABF20E94}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|solutionrelative:mvcproyectoweb.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcProyectoWed\\appsettings.json",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\appsettings.json",
+              "RelativeToolTip": "mvcProyectoWed\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T03:17:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mvcProyectoWed.csproj",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\mvcProyectoWed.csproj",
+              "RelativeDocumentMoniker": "mvcProyectoWed\\mvcProyectoWed.csproj",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\mvcProyectoWed.csproj",
+              "RelativeToolTip": "mvcProyectoWed\\mvcProyectoWed.csproj",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T23:24:31.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWed\\Program.cs",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\Program.cs",
+              "RelativeToolTip": "mvcProyectoWed\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:20:53.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWed\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWed\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T23:19:26.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWed\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvcProyectoWed\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:17:35.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "mvcProyectoWed\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWed\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "mvcProyectoWed\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-11T23:15:50.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWeb.Utilidades\\Class1.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.Utilidades\\Class1.cs",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWeb.Utilidades\\Class1.cs",
+              "RelativeToolTip": "mvcProyectoWeb.Utilidades\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:11:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWeb.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWeb.Models\\Class1.cs",
+              "RelativeToolTip": "mvcProyectoWeb.Models\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:10:58.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWeb.AccesoDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Renato\\source\\repos\\mvcProyectoWed\\mvcProyectoWeb.AccesoDatos\\Class1.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:10:37.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
